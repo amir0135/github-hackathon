@@ -22,7 +22,7 @@ Choose your track below and start building amazing things with AI-powered develo
 
 This track focuses on building and experimenting with **Model Context Protocol (MCP)** servers to extend GitHub Copilot with richer contextual awareness. Participants will learn how to set up MCP integrations using sources like GitHub, Microsoft Docs, and Playwright, explore practical examples, and discover "awesome Copilot" patterns that show how external tools and data can be securely exposed to Copilot to improve code generation, testing, and developer workflows.
 
-> 💻 [Start Lab](MCP.md)
+> 💻 [Start Lab](tracks/mcp.md)
 
 ---
 
