@@ -40,9 +40,9 @@ This hands‑on track is all about **rapidly building application prototypes** u
 
 **Choose your language:**
 
-> 💻 [Start Lab - Python](tracks/dev-track-python.md)
+> 💻 [Start Lab - Python](tracks/dev-python.md)
 
-> 💻 [Start Lab - .NET](tracks/dev-track-dotnet.md)
+> 💻 [Start Lab - .NET](tracks/dev-dotnet.md)
 
 ---
 
@@ -50,7 +50,7 @@ This hands‑on track is all about **rapidly building application prototypes** u
 
 This track targets **platform engineers and DevOps practitioners** who want to move fast on infrastructure and operations. Using the same Copilot workshop labs, participants will prototype infrastructure‑as‑code, CI/CD pipelines, and operational automation, exploring how Copilot can assist with authoring, understanding, and refining scripts, templates, and configurations across cloud and platform scenarios.
 
-> 🚀 *Coming soon - Lab link will be added*
+> 💻 [Start Lab](tracks/infra.md)
 
 ---
 
@@ -58,7 +58,7 @@ This track targets **platform engineers and DevOps practitioners** who want to m
 
 Designed for **quick wins and broad participation**, the scripting track invites attendees to pick a real item from their backlog and implement it using GitHub Copilot. Whether it's a small automation, data transformation, or utility script, this track emphasizes practical use of Copilot for everyday tasks, showing how developers can immediately boost productivity with minimal setup and maximum impact.
 
-> 🚀 *Coming soon - Lab link will be added*
+> 💻 Start the lab by picking a user story from your backlog and try to implement it using GitHub Copilot!
 
 ---
 
