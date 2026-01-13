@@ -58,7 +58,7 @@ This track targets **platform engineers and DevOps practitioners** who want to m
 
 Designed for **quick wins and broad participation**, the scripting track invites attendees to pick a real item from their backlog and implement it using GitHub Copilot. Whether it's a small automation, data transformation, or utility script, this track emphasizes practical use of Copilot for everyday tasks, showing how developers can immediately boost productivity with minimal setup and maximum impact.
 
-> 💻 Start the lab by picking a user story from your backlog and try to implement it using GitHub Copilot!
+> 💻 Pick a task from your backlog and build it with GitHub Copilot assistance!
 
 ---
 
