@@ -1,6 +1,6 @@
-# 🚀 Demant GitHub Copilot Hackathon 2026
+# 🚀 GitHub Copilot Hackathon 2026
 
-Welcome to the **Demant GitHub Copilot Hackathon 2026**! 🎉
+Welcome to the ** GitHub Copilot Hackathon 2026**! 🎉
 
 This hackathon is designed to help you explore the power of GitHub Copilot across different development scenarios. Whether you're building prototypes, automating workflows, managing infrastructure, or exploring cutting-edge AI integrations, we have a track for you!
 
